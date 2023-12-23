@@ -1,0 +1,3 @@
+rclone-lin-amd64.zip
+rclone-mac-amd64.zip
+rclone-win-amd64.zip
